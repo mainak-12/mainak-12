@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainak-12&label=Profile%20views&color=0e75b6&style=flat" alt="mainak-12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mainak-12" alt="mainak-12" /></a> </p>
-
 - 🔭 I’m currently working on **Bearing-Based Leader–Follower Control for Moving Target Tracking**
 
 - 📫 How to reach me **mainakbhattacharyya922@gmail.com**
@@ -21,21 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainak-12&show_icons=true&locale=en&layout=compact" alt="mainak-12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mainak-12&show_icons=true&locale=en" alt="mainak-12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mainak-12&" alt="mainak-12" /></p>
-## Hi there 👋
-
-<!--
-**mainak-12/mainak-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
