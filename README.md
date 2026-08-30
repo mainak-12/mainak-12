@@ -123,6 +123,26 @@ Research and experimentation involving autonomous aerial vehicles, focusing on:
 
 ---
 
+### 🤖 Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
+
+**Academic Project **
+
+Design and analysis of a **trajectory tracking controller for a two-wheeled mobile robot (TWMR)** considering its **non-holonomic constraints**.
+
+**Key Areas:**
+
+* Mathematical modeling of two-wheeled mobile robots
+* Kinematic modeling and non-holonomic constraints
+* Reference trajectory generation
+* Trajectory tracking controller design
+* Position and orientation error analysis
+* Stability and tracking performance analysis
+* MATLAB/Simulink-based modeling and simulation
+* Performance evaluation for different reference trajectories
+
+📑 **[View Project Report](https://drive.google.com/file/d/1cgZF5jnTjWR29qV6vo_HAe8kVa8ss5LE/view?usp=sharing)**
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
