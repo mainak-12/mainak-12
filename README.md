@@ -134,14 +134,7 @@ Design and analysis of a **trajectory tracking controller for a two-wheeled mobi
 📑 **[View Project Report](https://drive.google.com/file/d/1cgZF5jnTjWR29qV6vo_HAe8kVa8ss5LE/view?usp=sharing)**
 
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mainak-12&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainak-12&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
