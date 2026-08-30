@@ -158,19 +158,7 @@ Design and analysis of a **trajectory tracking controller for a two-wheeled mobi
 
 ---
 
-## 📑 Project Reports
 
-This section contains selected **academic projects, research work, technical reports, simulations, and documentation**.
-
-<p align="center">
-
-<a href="https://github.com/mainak-12">
-<img src="https://img.shields.io/badge/📚%20Research%20%26%20Project%20Reports-View%20Projects-0e75b6?style=for-the-badge"/>
-</a>
-
-</p>
-
----
 
 <p align="center">
 <i>“Engineering is not just about building systems — it is about understanding, modeling, and controlling them.”</i>
