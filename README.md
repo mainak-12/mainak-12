@@ -109,17 +109,8 @@ Development of a control framework for autonomous UAVs to follow and track a mov
 * Control law design
 * Simulation and performance evaluation
 
----
 
-### 🤖 Autonomous UAV Control
 
-Research and experimentation involving autonomous aerial vehicles, focusing on:
-
-* Position and attitude control
-* Trajectory tracking
-* Formation control
-* Sensor-based navigation
-* GPS-denied operation
 
 ---
 
