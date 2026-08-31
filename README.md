@@ -201,6 +201,51 @@ Weighting factors are used to adjust the relative importance of these objectives
 
 📑 **[View Project Report](https://drive.google.com/file/d/13_h0TqzFc3u7Gqt_HDqxZVbGff6ZvI7m/view?usp=sharing)**
 
+
+---
+
+### > Optimal Economic Scheduling of Four Electrical Generators Using CasADi and IPOPT
+
+**Optimization & Power Systems Project**
+
+Development of an **optimal economic scheduling framework for four electrical generators** over a 10-hour planning horizon using **CasADi and the IPOPT nonlinear optimization solver**.
+
+The project formulates generator scheduling as a constrained nonlinear optimization problem in which the generation outputs are optimally distributed among four generators to minimize the total generation cost while satisfying electrical demand and physical operating constraints. :contentReference[oaicite:1]{index=1}
+
+Key Areas:
+
+* Economic load dispatch
+* Optimal generator scheduling
+* Nonlinear optimization
+* CasADi Opti framework
+* IPOPT nonlinear programming solver
+* Generator cost optimization
+* Demand-supply balancing
+* Generator operating limits
+* Ramp-rate constraints
+* MATLAB-based optimization
+* Time-varying electrical demand
+* Power-system operation
+* Constraint verification
+* Optimal generation setpoints
+* Cost-effective power allocation
+
+### 🎯 Main Objective
+
+The main objective is to determine the **optimal generation setpoints of four generators** at every hour such that the total generation cost over the complete planning horizon is minimized.
+
+The optimization simultaneously ensures:
+
+1. **Electrical demand is exactly satisfied**
+2. **Generator outputs remain within operating limits**
+3. **Generator ramp-rate constraints are satisfied**
+4. **The initial transition from the previous operating condition is feasible**
+
+
+
+📑 **[View Project Report](https://drive.google.com/file/d/1WgAO902RnwNV6ltwhq-RNE6ePecv67Wu/view?usp=sharing)**
+
+---
 ---
 ## 🌐 Connect With Me
 
