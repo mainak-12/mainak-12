@@ -164,7 +164,7 @@ The simulation study evaluates reference tracking, current consensus, disturbanc
 
 ---
 
-###> Cooperative Control for Mitigation of Voltage Fluctuations in Power Distribution Systems
+### > Cooperative Control for Mitigation of Voltage Fluctuations in Power Distribution Systems
 
 
 Development of a **cooperative reactive-power control strategy for mitigating voltage fluctuations in electrical power distribution systems with renewable distributed generation**.
