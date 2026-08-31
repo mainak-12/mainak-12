@@ -161,6 +161,49 @@ The simulation study evaluates reference tracking, current consensus, disturbanc
 
 
 📑 **[View Project Report](https://drive.google.com/file/d/1YDr59v2LuPA0MwgubSYHIrD6kk2ZiVG5/view?usp=sharing)**
+
+---
+
+> Cooperative Control for Mitigation of Voltage Fluctuations in Power Distribution Systems
+
+**Research Project**
+
+Development of a **cooperative reactive-power control strategy for mitigating voltage fluctuations in electrical power distribution systems with renewable distributed generation**.
+
+The project investigates the impact of intermittent renewable generation, particularly solar PV systems, on distribution-system voltage and develops a coordinated control approach in which multiple reactive-power resources cooperate through a communication network. :contentReference[oaicite:1]{index=1}
+
+Key Areas:
+
+* Cooperative reactive-power control
+* Voltage fluctuation mitigation
+* Renewable distributed generation
+* Solar PV integration
+* Inverter-based distributed generators
+* Volt-Var control
+* Reactive-power optimization
+* Multi-agent cooperative control
+* Distributed communication and consensus
+* Phase-level voltage regulation
+* Capacitor-bank coordination
+* IEEE 13-bus distribution-system modeling
+* MATLAB/Simulink-based simulation and analysis
+* Multi-objective optimization
+* Reactive-power utilization and equipment aging
+
+
+The main objective is to mitigate voltage fluctuations caused by intermittent renewable generation by coordinating the reactive-power contribution of distributed generators and capacitor banks.
+
+The proposed strategy considers two simultaneous objectives:
+
+1. **Minimization of voltage deviation**
+2. **Minimization of reactive-power utilization**
+
+Weighting factors are used to adjust the relative importance of these objectives. :contentReference[oaicite:2]{index=2}
+
+
+📑 **[View Project Report](https://drive.google.com/file/d/13_h0TqzFc3u7Gqt_HDqxZVbGff6ZvI7m/view?usp=sharing)**
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
