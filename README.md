@@ -94,7 +94,7 @@ The work explores:
 
 ##  Selected Projects
 
-###  Bearing Based Control Of Quadrotors in GPS Denied Environment
+### > Bearing Based Control Of Quadrotors in GPS Denied Environment
 
 M.Tech Project(Ongoing)
 
@@ -112,7 +112,7 @@ Key Areas:
 
 ---
 
-###  Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
+### > Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
 
 
 
@@ -132,7 +132,7 @@ Key Areas:
 📑 **[View Project Report](https://drive.google.com/file/d/1cgZF5jnTjWR29qV6vo_HAe8kVa8ss5LE/view?usp=sharing)**
 
 ---
-###  Cooperative Control of Heterogeneous DC/DC Boost Converters
+### > Cooperative Control of Heterogeneous DC/DC Boost Converters
 
 
 
