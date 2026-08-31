@@ -40,8 +40,7 @@ The work explores:
 * Relative position estimation
 * Control system design and stability
 
-
-
+---
 
 ## 🧠 Research Interests
 
@@ -60,6 +59,7 @@ The work explores:
 ### Programming
 
 <p align="left">
+
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
@@ -67,6 +67,7 @@ The work explores:
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45" alt="MATLAB"/>
 </a>
+
 </p>
 
 ### Engineering & Simulation
@@ -107,13 +108,11 @@ Key Areas:
 * Control law design
 * Simulation and performance evaluation
 
-
-
+📑 **[View Project Report](https://drive.google.com/file/d/1ZTCI0motYq0Q1TvJVa3tcTOrTRyOEirp/view?usp=sharing)**
 
 ---
 
 ### 🤖 Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
-
 
 Design and analysis of a **trajectory tracking controller for a two-wheeled mobile robot (TWMR)** considering its **non-holonomic constraints**.
 
@@ -130,8 +129,7 @@ Key Areas:
 
 📑 **[View Project Report](https://drive.google.com/file/d/1cgZF5jnTjWR29qV6vo_HAe8kVa8ss5LE/view?usp=sharing)**
 
-
-
+---
 
 ## 🌐 Connect With Me
 
@@ -155,12 +153,12 @@ Key Areas:
 
 ---
 
-
-
 <p align="center">
 <i>“Engineering is not just about building systems — it is about understanding, modeling, and controlling them.”</i>
 </p>
 
 <p align="center">
 <b>Control • Robotics • Autonomy • Research</b>
+</p>
+
 </p>
