@@ -16,17 +16,17 @@ I am an **M.Tech student at the Indian Institute of Technology Guwahati (IIT Guw
 
 My academic and research interests lie at the intersection of **control theory, computer vision, UAVs, and autonomous navigation**, with a particular focus on developing reliable control strategies for dynamic environments.
 
-* 🎓 **M.Tech Student — IIT Guwahati**
-* ⚡ Background in **Electrical Engineering**
-* 🎯 Interested in **Control Systems, Robotics & Autonomous Systems**
-* 🚁 Working on **UAV-based target tracking and formation control**
-* 🔬 Research-oriented and interested in **control theory & intelligent autonomous systems**
+*  M.Tech Student — IIT Guwahati
+*  Background in **Electrical Engineering
+*  Interested in **Control Systems, Robotics & Autonomous Systems
+*  Working on **UAV-based target tracking and formation control
+*  Research-oriented and interested in **control theory & intelligent autonomous systems
 
 ---
 
-## 🔬 Current Research
+##  Current Research
 
-### 🛰️ Bearing Based Control Of Quadrotors in GPS Denied Environment
+###  Bearing Based Control Of Quadrotors in GPS Denied Environment
 
 Currently working on a research project focused on **Bearing Based Control Of Quadrotors in GPS Denied Environment** for tracking moving targets.
 
@@ -42,7 +42,7 @@ The work explores:
 
 ---
 
-## 🧠 Research Interests
+##  Research Interests
 
 <p align="center">
 
@@ -54,7 +54,7 @@ The work explores:
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 ### Programming
 
@@ -92,9 +92,9 @@ The work explores:
 
 ---
 
-## 📂 Selected Projects
+##  Selected Projects
 
-### 🚁 Bearing Based Control Of Quadrotors in GPS Denied Environment
+###  Bearing Based Control Of Quadrotors in GPS Denied Environment
 
 M.Tech Project(Ongoing)
 
@@ -112,7 +112,7 @@ Key Areas:
 
 ---
 
-### 🤖 Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
+###  Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
 
 
 
@@ -132,7 +132,7 @@ Key Areas:
 📑 **[View Project Report](https://drive.google.com/file/d/1cgZF5jnTjWR29qV6vo_HAe8kVa8ss5LE/view?usp=sharing)**
 
 ---
-### 🤖 Cooperative Control of Heterogeneous DC/DC Boost Converters
+###  Cooperative Control of Heterogeneous DC/DC Boost Converters
 
 
 
