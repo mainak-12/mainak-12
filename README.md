@@ -114,7 +114,7 @@ Key Areas:
 
 ### 🤖 Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
 
-Academic Project
+
 
 Design and analysis of a **trajectory tracking controller for a two-wheeled mobile robot (TWMR)** considering its **non-holonomic constraints**.
 
@@ -134,7 +134,7 @@ Key Areas:
 ---
 ⚡ Cooperative Control of Heterogeneous DC/DC Boost Converters
 
-Research Project
+
 
 Development of a distributed cooperative control framework for heterogeneous DC/DC boost converters with application to ship degaussing systems.
 
