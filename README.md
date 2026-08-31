@@ -132,7 +132,7 @@ Key Areas:
 📑 **[View Project Report](https://drive.google.com/file/d/1cgZF5jnTjWR29qV6vo_HAe8kVa8ss5LE/view?usp=sharing)**
 
 ---
-⚡ Cooperative Control of Heterogeneous DC/DC Boost Converters
+### 🤖 Cooperative Control of Heterogeneous DC/DC Boost Converters
 
 
 
