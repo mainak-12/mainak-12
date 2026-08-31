@@ -99,7 +99,7 @@ The work explores:
 
 Development of a control framework for autonomous UAVs to follow and track a moving target using **bearing measurements**.
 
-**Key Areas:**
+Key Areas:
 
 * Relative bearing estimation
 * Leader–follower architecture
@@ -114,11 +114,10 @@ Development of a control framework for autonomous UAVs to follow and track a mov
 
 ### 🤖 Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
 
-**Academic Project **
 
 Design and analysis of a **trajectory tracking controller for a two-wheeled mobile robot (TWMR)** considering its **non-holonomic constraints**.
 
-**Key Areas:**
+Key Areas:
 
 * Mathematical modeling of two-wheeled mobile robots
 * Kinematic modeling and non-holonomic constraints
