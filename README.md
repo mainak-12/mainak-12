@@ -196,7 +196,7 @@ The proposed strategy considers two simultaneous objectives:
 1. **Minimization of voltage deviation**
 2. **Minimization of reactive-power utilization**
 
-Weighting factors are used to adjust the relative importance of these objectives. :contentReference[oaicite:2]{index=2}
+Weighting factors are used to adjust the relative importance of these objectives.
 
 
 📑 **[View Project Report](https://drive.google.com/file/d/13_h0TqzFc3u7Gqt_HDqxZVbGff6ZvI7m/view?usp=sharing)**
