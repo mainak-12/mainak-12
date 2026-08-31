@@ -142,22 +142,24 @@ The project focuses on coordinating multiple nonidentical boost-converter agents
 
 Key Areas:
 
-Cooperative control of DC/DC boost converters
-Heterogeneous multi-agent systems
-Distributed current consensus
-Mixed Negative Imaginary (NI) + Positive Real (PR) control
-Output-feedback control
-Leader–follower and communication-network concepts
-Graph-theoretic cooperative control
-Characteristic-loci based stability analysis
-Time-varying reference tracking
-Disturbance rejection and robustness evaluation
-MATLAB/Simulink-based modeling and simulation
-Ship degaussing system application
+* Cooperative control of DC/DC boost converters
+* Heterogeneous multi-agent systems
+* Distributed current consensus
+* Mixed Negative Imaginary (NI) + Positive Real (PR) control
+* Output-feedback control
+* Leader–follower and communication-network concepts
+* Graph-theoretic cooperative control
+* Characteristic-loci based stability analysis
+* Time-varying reference tracking
+* Disturbance rejection and robustness evaluation
+* MATLAB/Simulink-based modeling and simulation
+* Ship degaussing system application
 
 The proposed approach uses a homogeneous controller for heterogeneous converter plants, allowing different converter dynamics to be coordinated through distributed communication.
 
 The simulation study evaluates reference tracking, current consensus, disturbances, and different switching frequencies. The reported simulations show damped transient oscillations followed by convergence of the converter currents toward a common operating value.
+
+
 📑 **[View Project Report](https://drive.google.com/file/d/1YDr59v2LuPA0MwgubSYHIrD6kk2ZiVG5/view?usp=sharing)**
 ## 🌐 Connect With Me
 
