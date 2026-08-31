@@ -164,13 +164,11 @@ The simulation study evaluates reference tracking, current consensus, disturbanc
 
 ---
 
-> Cooperative Control for Mitigation of Voltage Fluctuations in Power Distribution Systems
+###> Cooperative Control for Mitigation of Voltage Fluctuations in Power Distribution Systems
 
-**Research Project**
 
 Development of a **cooperative reactive-power control strategy for mitigating voltage fluctuations in electrical power distribution systems with renewable distributed generation**.
 
-The project investigates the impact of intermittent renewable generation, particularly solar PV systems, on distribution-system voltage and develops a coordinated control approach in which multiple reactive-power resources cooperate through a communication network. :contentReference[oaicite:1]{index=1}
 
 Key Areas:
 
