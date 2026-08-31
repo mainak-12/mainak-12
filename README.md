@@ -94,9 +94,9 @@ The work explores:
 
 ## 📂 Selected Projects
 
-### 🚁 Bearing-Based Leader–Follower Control
+### 🚁 Bearing Based Control Of Quadrotors in GPS Denied Environment
 
-**Research Project**
+M.Tech Project(Ongoing)
 
 Development of a control framework for autonomous UAVs to follow and track a moving target using **bearing measurements**.
 
@@ -113,6 +113,8 @@ Key Areas:
 ---
 
 ### 🤖 Modelling and Trajectory Tracking Controller Design for Two-Wheeled Mobile Robots with Non-Holonomic Mobile Robot Control
+
+Academic Project
 
 Design and analysis of a **trajectory tracking controller for a two-wheeled mobile robot (TWMR)** considering its **non-holonomic constraints**.
 
