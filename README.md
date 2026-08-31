@@ -28,7 +28,7 @@ My academic and research interests lie at the intersection of **control theory, 
 
 ### 🛰️ Bearing-Based Leader–Follower Control for Moving Target Tracking
 
-Currently working on a research project focused on **bearing-based control of autonomous aerial vehicles** for tracking moving targets.
+Currently working on a research project focused on **Bearing Based Control Of Quadrotors in GPS Denied Environment** for tracking moving targets.
 
 The work explores:
 
@@ -39,11 +39,9 @@ The work explores:
 * GPS-denied navigation
 * Relative position estimation
 * Control system design and stability
-* MATLAB/Simulink-based simulation
 
-> **Research Focus:** Developing robust control strategies for autonomous leader–follower systems operating under limited sensing information.
 
----
+
 
 ## 🧠 Research Interests
 
