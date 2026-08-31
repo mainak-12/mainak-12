@@ -17,9 +17,9 @@ I am an **M.Tech student at the Indian Institute of Technology Guwahati (IIT Guw
 My academic and research interests lie at the intersection of **control theory, computer vision, UAVs, and autonomous navigation**, with a particular focus on developing reliable control strategies for dynamic environments.
 
 *  M.Tech Student — IIT Guwahati
-*  Background in **Electrical Engineering
-*  Interested in **Control Systems, Robotics & Autonomous Systems
-*  Working on **UAV-based target tracking and formation control
+*  Background in Electrical Engineering
+*  Interested in Control Systems, Robotics & Autonomous Systems
+*  Working on UAV-based target tracking and formation control
 *  Research-oriented and interested in **control theory & intelligent autonomous systems
 
 ---
