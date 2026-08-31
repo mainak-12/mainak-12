@@ -247,6 +247,43 @@ The optimization simultaneously ensures:
 
 ---
 ---
+
+### > MPPT Based Charging Circuit of Electric Vehicle
+  
+**Renewable Energy & Electric Vehicle Charging Project(Btech project)**
+
+Development and simulation of a **Maximum Power Point Tracking (MPPT) based charging circuit for an electric vehicle**, integrating a photovoltaic (PV) array, MPPT controller, DC-DC boost converter, and battery charging system.
+
+The project focuses on extracting maximum available power from a solar PV array and efficiently transferring the generated power to an EV battery under varying solar irradiation conditions. The system uses MPPT control to continuously track the maximum power operating point of the PV array and regulate the charging process. :contentReference[oaicite:1]{index=1}
+
+### 🎯 Main Objective
+
+The main objective is to develop an **MPPT-based solar charging system for electric vehicles** that can:
+
+* Extract maximum available power from the solar PV array
+* Track the maximum power point under changing irradiation conditions
+* Control the DC-DC boost converter
+* Regulate the voltage and current supplied to the battery
+* Improve the utilization of available solar energy
+* Provide an efficient renewable-energy-based EV charging solution
+
+
+
+
+
+
+
+
+
+### 🛠️ Tools & Technologies
+
+**MATLAB • Simulink • MPPT • Perturbation & Observation • Incremental Conductance • Boost Converter • PWM • IGBT • Solar PV • Battery Modelling • Electric Vehicle Charging • Renewable Energy**
+
+
+📑 **[View Project Report](https://drive.google.com/file/d/1pq4DNa09etcLam0QQXCpu7efQ3yqaW3E/view?usp=sharing)**
+
+---
+---
 ## 🌐 Connect With Me
 
 <p align="left">
