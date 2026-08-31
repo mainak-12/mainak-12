@@ -210,7 +210,7 @@ Weighting factors are used to adjust the relative importance of these objectives
 
 Development of an **optimal economic scheduling framework for four electrical generators** over a 10-hour planning horizon using **CasADi and the IPOPT nonlinear optimization solver**.
 
-The project formulates generator scheduling as a constrained nonlinear optimization problem in which the generation outputs are optimally distributed among four generators to minimize the total generation cost while satisfying electrical demand and physical operating constraints. :contentReference[oaicite:1]{index=1}
+The project formulates generator scheduling as a constrained nonlinear optimization problem in which the generation outputs are optimally distributed among four generators to minimize the total generation cost while satisfying electrical demand and physical operating constraints.
 
 Key Areas:
 
