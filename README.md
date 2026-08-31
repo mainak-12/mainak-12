@@ -254,7 +254,7 @@ The optimization simultaneously ensures:
 
 Development and simulation of a **Maximum Power Point Tracking (MPPT) based charging circuit for an electric vehicle**, integrating a photovoltaic (PV) array, MPPT controller, DC-DC boost converter, and battery charging system.
 
-The project focuses on extracting maximum available power from a solar PV array and efficiently transferring the generated power to an EV battery under varying solar irradiation conditions. The system uses MPPT control to continuously track the maximum power operating point of the PV array and regulate the charging process. :contentReference[oaicite:1]{index=1}
+The project focuses on extracting maximum available power from a solar PV array and efficiently transferring the generated power to an EV battery under varying solar irradiation conditions. The system uses MPPT control to continuously track the maximum power operating point of the PV array and regulate the charging process.
 
 ### 🎯 Main Objective
 
