@@ -26,7 +26,7 @@ My academic and research interests lie at the intersection of **control theory, 
 
 ## 🔬 Current Research
 
-### 🛰️ Bearing-Based Leader–Follower Control for Moving Target Tracking
+### 🛰️ Bearing Based Control Of Quadrotors in GPS Denied Environment
 
 Currently working on a research project focused on **Bearing Based Control Of Quadrotors in GPS Denied Environment** for tracking moving targets.
 
